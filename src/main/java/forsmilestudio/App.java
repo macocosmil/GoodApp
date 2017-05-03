@@ -69,5 +69,8 @@ public class App {
         System.out.println(dataNowa.getTime());
         System.out.println(iledni);
         System.out.println("taka zmiana");
+        System.out.println("nowe schematy");
+        DupaJasia dupaJasiaWartosc = new DupaJasia();
+        System.out.println(dupaJasiaWartosc.getDupaJasiaBec());
     }
 }
